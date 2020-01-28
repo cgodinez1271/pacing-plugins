@@ -1,0 +1,7 @@
+Web Page Size Summary Statistics (bytes) - select_ATG_AggRpt_All Monday 01/27/2020
+label,n,tps,median,mean,sdev,cv,p90,p95,p99,min,max
+Dummy_Four,3564,3.98,0,0.00,0.00,0.00,0,0,0,0,0
+Dummy_One,3600,4.00,0,0.00,0.00,0.00,0,0,0,0,0
+Dummy_Three,3580,3.99,0,0.00,0.00,0.00,0,0,0,0,0
+Dummy_Two,3592,3.99,0,0.00,0.00,0.00,0,0,0,0,0
+Total,14336,15.91,0,0.00,0.00,0.00,0,0,0,0,0

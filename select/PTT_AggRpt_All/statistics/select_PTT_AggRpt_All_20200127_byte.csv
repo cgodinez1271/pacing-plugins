@@ -1,0 +1,7 @@
+Web Page Size Summary Statistics (bytes) - select_PTT_AggRpt_All Monday 01/27/2020
+label,n,tps,median,mean,sdev,cv,p90,p95,p99,min,max
+Dummy_Four,3572,3.99,0,0.00,0.00,0.00,0,0,0,0,0
+Dummy_One,3598,4.00,0,0.00,0.00,0.00,0,0,0,0,0
+Dummy_Three,3585,4.00,0,0.00,0.00,0.00,0,0,0,0,0
+Dummy_Two,3593,3.99,0,0.00,0.00,0.00,0,0,0,0,0
+Total,14348,15.88,0,0.00,0.00,0.00,0,0,0,0,0
